@@ -24,5 +24,5 @@ A simple React application that fetches and displays images from the **Picsum Ph
 
 ---
 
-## 📂 Project Structure
+
 
